@@ -22,6 +22,5 @@ export default ({ children }) => (
       </ul>
     </header>
     {children}
-    <Footer/>
   </div>
 )
